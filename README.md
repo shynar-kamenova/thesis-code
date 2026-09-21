@@ -28,7 +28,9 @@ experiments
    cd thesis-code
 
  2. Install dependencies:
+```text
    pip install -r requirements.txt
+```
 
 📖 Citation
 If you find this work useful, please cite it using the metadata in CITATION.cff or via the Zenodo DOI.
