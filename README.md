@@ -33,6 +33,6 @@ experiments
 ```
 
 📖 Citation
-If you find this work useful, please cite it using the metadata in CITATION.cff or via the Zenodo DOI.
+If you find this work useful, please cite it using the metadata in CITATION.cff or via the Zenodo DOI: https://doi.org/10.5281/zenodo.22877385
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
