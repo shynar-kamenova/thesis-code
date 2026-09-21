@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.ipynb_checkpoints
+data/raw/*
+!data/raw/.gitkeep
