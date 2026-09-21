@@ -7,6 +7,7 @@ This repository contains the source code, data processing pipelines, and experim
 
 ## 📂 Project Structure
 
+```text
 thesis-code/
 ├── README.md            # Project description
 ├── LICENSE              # License file
@@ -23,10 +24,10 @@ experiments
 ## 🚀 Quick Start
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/shynar-kamenova/thesis-code.git](https://github.com/shynar-kamenova/thesis-code.git)
+   git clone https://github.com/shynar-kamenova/thesis-code.git
    cd thesis-code
 
- * Install dependencies:
+ 2. Install dependencies:
    pip install -r requirements.txt
 
 📖 Citation
