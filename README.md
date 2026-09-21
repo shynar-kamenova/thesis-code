@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the source code, data processing pipelines, and experimental notebooks for PhD research at *L.N. Gumilyov Eurasian National University*.
+This repository contains the source code, data processing pipelines, and experimental notebooks for PhD research at **L.N. Gumilyov Eurasian National University**.
 
 ## 📂 Project Structure
 
@@ -15,6 +15,7 @@ thesis-code/
 ├── requirements.txt     # Python dependencies
 ├── data/                # Datasets (raw and processed)
 ├── notebooks/           # Jupyter Notebooks for experiments
+experiments
 ├── src/                 # Main source code
 ├── scripts/             # Execution scripts
 └── results/             # Output metrics and graphics
