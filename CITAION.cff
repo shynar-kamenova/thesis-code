@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Information Systems Research Code Base"
+authors:
+- family-names: Kamenova
+  given-names: Shynar
+  orcid: "https://orcid.org/0009-0006-2406-2283"
+  affiliation: "L.N. Gumilyov Eurasian National University"
+version: 1.0.0
+date-released: 2026-09-21
+license: MIT
+repository-code: "https://github.com/shynar-kamenova/thesis-code"
