@@ -19,15 +19,16 @@ thesis-code/
 ├── scripts/             # Execution scripts
 └── results/             # Output metrics and graphics
 
-## Quick Start
+## 🚀 Quick Start
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/shynar-kamenova/thesis-code.git](https:github.com/shynar-kamenova/thesis-code.git)
+   git clone [https://github.com/shynar-kamenova/thesis-code.git](https://github.com/shynar-kamenova/thesis-code.git)
    cd thesis-code
-2. Install dependencies:
+
+ * Install dependencies:
    pip install -r requirements.txt
 
 📖 Citation
-If you find this work useful, please cite it using the metadata in ⁠CITATION.cff⁠ or via the Zenodo DOI.
+If you find this work useful, please cite it using the metadata in CITATION.cff or via the Zenodo DOI.
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
